@@ -9,7 +9,7 @@
         "id":2,
         "title":"tarea 2",
         "description":"lorem Ipsum",
-        "done":false
+        "done":true
     },
     {
         "id":3,
